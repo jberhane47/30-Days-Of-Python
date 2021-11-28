@@ -63,7 +63,7 @@ Activation of the virtual environment in Windows may very on Windows Power shell
 
 For Windows Power Shell:
 ```sh
-C:\Users\User\Documents\30DaysOfPython\flask_project> venv\Scripts\activate
+C:\Users\User\Documents\30DaysOfPython\flask_project> .\venv\Scripts\activate
 ```
 
 For Windows Git bash:
