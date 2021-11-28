@@ -92,7 +92,7 @@ Jupyter notebook is available if your are in favor of [jupyter notebook](https:/
 
     numpy_array_from_list = np.array(python_list)
     print(type (numpy_array_from_list))   # <class 'numpy.ndarray'>
-    print(numpy_array_from_list) # array([1, 2, 3, 4, 5])
+    print(numpy_array_from_list) # array([1 2 3 4 5])
 ```
 
 ### Creating float numpy arrays
